@@ -37,15 +37,16 @@ function App() {
         </div>
         <div id="restOfIntro">
           <h1>Didier Drogba</h1>
-          <div id="Nav">
-            <a href="#Overview">Overview</a>
-            <a href="#EarlyChildhood">Early Childhood</a>
-            <a href="#EarlyCareer">Early Career</a>
-            <a href="#ChelseaCareer">Chelsea Career</a>
-            <a href="#InternationalCareer">International Career</a>
-            <a href="#LaterCareer">Later Career</a>
-            <a href="#Retirement">Retirement</a>
-          </div>
+          <ul id="Nav">
+
+            <li><a href="#Overview">Overview</a></li>
+            <li><a href="#EarlyChildhood">Early Childhood</a></li>
+            <li><a href="#EarlyCareer">Early Career</a></li>
+            <li><a href="#ChelseaCareer">Chelsea Career</a></li>
+            <li><a href="#InternationalCareer">International Career</a></li>
+            <li><a href="#LaterCareer">Later Career</a></li>
+            <li><a href="#Retirement">Retirement</a></li>
+          </ul>
         </div>
        
       </div>
